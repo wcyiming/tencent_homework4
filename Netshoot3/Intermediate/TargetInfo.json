@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Netshoot",
+			"Path": "E:\\ue\\TecentHomework2-Netshoot-main\\Source\\Netshoot.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NetshootEditor",
+			"Path": "E:\\ue\\TecentHomework2-Netshoot-main\\Source\\NetshootEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

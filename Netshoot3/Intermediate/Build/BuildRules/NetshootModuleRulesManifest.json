@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\ue\\TecentHomework2-Netshoot-main2\\Source\\Netshoot\\Netshoot.Build.cs",
+		"E:\\ue\\TecentHomework2-Netshoot-main2\\Source\\Netshoot.Target.cs",
+		"E:\\ue\\TecentHomework2-Netshoot-main2\\Source\\NetshootEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}
